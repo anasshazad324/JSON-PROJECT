@@ -1,0 +1,76 @@
+[
+    {
+        "empname" : "Ali" ,
+        "empemail": "Ali@gmail.com" ,
+        "empnumber" : "+92 3447653824" ,
+        "empaddress": "Karachi-pakistan" ,
+        "empsalary" : "50000"
+        
+    },
+
+    {
+        "empname" : "Ahmed" ,
+        "empemail": "Ahmed@gmail.com" ,
+        "empnumber" : "+92 321452279" ,
+        "empaddress": "Karachi-pakistan" ,
+        "empsalary" : "35000"
+        
+    },
+
+    {
+        "empname" : "Raza" ,
+        "empemail": "Raza@gmail.com" ,
+        "empnumber" : "+92 3333575638" ,
+        "empaddress": "Karachi-pakistan" ,
+        "empsalary" : "40000"
+        
+    },
+
+    {
+        "empname" : "Anas" ,
+        "empemail": "Anas@gmail.com" ,
+        "empnumber" : "+92 3443256875" ,
+        "empaddress": "Karachi-pakistan" ,
+        "empsalary" : "55000"
+        
+    },
+
+    {
+        "empname" : "Salaar" ,
+        "empemail": "Salaar@gmail.com" ,
+        "empnumber" : "+92 3447757424" ,
+        "empaddress": "Karachi-pakistan" ,
+        "empsalary" : "45000"
+        
+    },
+
+    {
+        "empname" : "usman" ,
+        "empemail": "usman@gmail.com" ,
+        "empnumber" : "+92 34477387224" ,
+        "empaddress": "Karachi-pakistan" ,
+        "empsalary" : "60000"
+        
+    },
+
+
+    {
+        "empname" : "chotu" ,
+        "empemail": "chotu@gmail.com" ,
+        "empnumber" : "+92 3447653394" ,
+        "empaddress": "Karachi-pakistan" ,
+        "empsalary" : "42000"
+        
+    },
+
+
+    {
+        "empname" : "samad" ,
+        "empemail": "samad@gmail.com" ,
+        "empnumber" : "+92 3447843824" ,
+        "empaddress": "Karachi-pakistan" ,
+        "empsalary" : "48000"
+        
+    }
+
+]
